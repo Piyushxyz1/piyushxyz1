@@ -8,9 +8,7 @@
   <!-- MERN Stack -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="70" title="MongoDB" />
   &nbsp;&nbsp;&nbsp;
-  <div style="background: white; display: inline-block; padding: 10px; border-radius: 8px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="70" />
-</div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="70" title="Express.js" style="filter: invert(1);" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="70" title="React" />
   &nbsp;&nbsp;&nbsp;

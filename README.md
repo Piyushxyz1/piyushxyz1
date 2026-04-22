@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/">
+  <a href="https://linkedin.com/in/piyush-negi-techie">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
@@ -152,7 +152,7 @@
 
 ##  Professional Network
 
-- **LinkedIn**: [linkedin.com/in/piyush-negi](https://linkedin.com/in/piyush-negi)
+- **LinkedIn**: [linkedin.com/in/piyush-negi-techie](https://linkedin.com/in/piyush-negi)
 - **GitHub**: [github.com/Piyushxyz1](https://github.com/Piyushxyz1)
 - **Email**: [piyushnegi033@gmail.com](mailto:piyushnegi033@gmail.com)
 - **Portfolio**: [github.com/Piyushxyz1/Portfolio.git](https://github.com/Piyushxyz1/Portfolio.git)

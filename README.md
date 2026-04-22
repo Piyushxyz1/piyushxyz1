@@ -86,21 +86,6 @@
 
 ---
 
-## 📁 Project Portfolio
-
-### MERN Stack Projects
-| Project | Tech Stack | DevOps Integration |
-|---------|------------|---------------------|
-| Portfolio Website | React, Node.js, Express | GitHub Actions CI/CD |
-| *Coming Soon* | MERN + MongoDB Atlas | Docker + AWS ECS |
-
-### DevOps Projects
-| Project | Tools | Cloud |
-|---------|-------|-------|
-| *In Progress* | Docker, Kubernetes, Jenkins | AWS EKS |
-| *Planned* | Terraform, Ansible | Multi-cloud (AWS/Azure) |
-
----
 
 ## 📈 GitHub Analytics
 
@@ -135,20 +120,3 @@
 
 ---
 
-## 📅 2025 Roadmap
-
-```text
-Q1 ✅ Complete MERN Stack Fundamentals
-Q2 🟡 Master Docker & Kubernetes
-Q3 ⭕ Terraform & Infrastructure as Code
-Q4 ⭕ Multi-cloud Deployment (AWS/Azure/GCP)
-
-🌟 From the Bhagavad Gita
-"नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते ।
-स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात् ॥"
-
-"In this endeavor, there is no loss or diminution, and a little advancement on this path can protect one from the most dangerous type of fear."
-
-— Bhagavad Gita, Chapter 2, Verse 40 
-
-<p align="center"> <i>"No good deed goes to waste. A person who walks the path of righteousness is never destroyed, neither in this world nor the next."</i> [citation:2] </p>

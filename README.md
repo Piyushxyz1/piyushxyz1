@@ -54,3 +54,101 @@
 ## 🛠️ Technical Arsenal
 
 ### **MERN Stack Development**
+
+### **Cloud Platforms**
+| Platform | Services |
+|----------|----------|
+| **AWS** | EC2, S3, Lambda, CloudFormation, RDS |
+| **Azure** | Azure DevOps, App Services, AKS |
+| **GCP** | Compute Engine, Cloud Run, GKE |
+
+### **DevOps Toolchain**
+| Category | Tools |
+|----------|-------|
+| **Containerization** | Docker, Kubernetes, Helm |
+| **CI/CD** | Jenkins, GitHub Actions, GitLab CI, Azure Pipelines |
+| **Infrastructure as Code** | Terraform, Ansible, CloudFormation |
+| **Monitoring** | Prometheus, Grafana, ELK Stack |
+| **Version Control** | Git, GitHub, GitLab, Bitbucket |
+
+
+---
+
+## 🎯 Current Learning Path
+
+| Priority | Technology | Status |
+|----------|------------|--------|
+| 🔴 High | Docker & Containerization | 🟢 Active |
+| 🔴 High | Kubernetes Orchestration | 🟡 Learning |
+| 🟡 Medium | Terraform (IaC) | 🟡 Learning |
+| 🟡 Medium | Jenkins Pipelines | 🟢 Active |
+| 🟢 Low | Prometheus & Grafana | ⚪ Planned |
+
+---
+
+## 📁 Project Portfolio
+
+### MERN Stack Projects
+| Project | Tech Stack | DevOps Integration |
+|---------|------------|---------------------|
+| Portfolio Website | React, Node.js, Express | GitHub Actions CI/CD |
+| *Coming Soon* | MERN + MongoDB Atlas | Docker + AWS ECS |
+
+### DevOps Projects
+| Project | Tools | Cloud |
+|---------|-------|-------|
+| *In Progress* | Docker, Kubernetes, Jenkins | AWS EKS |
+| *Planned* | Terraform, Ansible | Multi-cloud (AWS/Azure) |
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piyushxyz1&show_icons=true&count_private=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushxyz1&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushxyz1&theme=github_dark" width="90%" />
+</p>
+
+---
+
+## 🏆 DevOps Metrics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Deployment_Frequency-~5/week-blue" />
+  <img src="https://img.shields.io/badge/Lead_Time-<24h-green" />
+  <img src="https://img.shields.io/badge/MTTR-30min-orange" />
+  <img src="https://img.shields.io/badge/Change_Failure_Rate-<5%-brightgreen" />
+</p>
+
+---
+
+## 🤝 Professional Network
+
+- **LinkedIn**: [linkedin.com/in/piyush-negi](https://linkedin.com/in/piyush-negi)
+- **GitHub**: [github.com/Piyushxyz1](https://github.com/Piyushxyz1)
+- **Email**: [piyushnegi033@gmail.com](mailto:piyushnegi033@gmail.com)
+- **Portfolio**: [github.com/Piyushxyz1/Portfolio.git](https://github.com/Piyushxyz1/Portfolio.git)
+
+---
+
+## 📅 2025 Roadmap
+
+```text
+Q1 ✅ Complete MERN Stack Fundamentals
+Q2 🟡 Master Docker & Kubernetes
+Q3 ⭕ Terraform & Infrastructure as Code
+Q4 ⭕ Multi-cloud Deployment (AWS/Azure/GCP)
+
+🌟 From the Bhagavad Gita
+"नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते ।
+स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात् ॥"
+
+"In this endeavor, there is no loss or diminution, and a little advancement on this path can protect one from the most dangerous type of fear."
+
+— Bhagavad Gita, Chapter 2, Verse 40 
+
+<p align="center"> <i>"No good deed goes to waste. A person who walks the path of righteousness is never destroyed, neither in this world nor the next."</i> [citation:2] </p>

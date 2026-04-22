@@ -8,7 +8,7 @@
   <!-- MERN Stack -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="70" title="MongoDB" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"   title="Express" />
+  <span style="font-size: 48px; font-weight: bold; color: white; background: #000; padding: 10px 20px; border-radius: 10px;">Express.js</span>
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="70" title="React" />

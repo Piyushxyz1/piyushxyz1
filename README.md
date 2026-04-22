@@ -152,7 +152,7 @@
 
 ##  Professional Network
 
-- **LinkedIn**: [linkedin.com/in/piyush-negi-techie](https://linkedin.com/in/piyush-negi)
+- **LinkedIn**: [linkedin.com/in/piyush-negi-techie](https://linkedin.com/in/piyush-negi-techie)
 - **GitHub**: [github.com/Piyushxyz1](https://github.com/Piyushxyz1)
 - **Email**: [piyushnegi033@gmail.com](mailto:piyushnegi033@gmail.com)
 - **Portfolio**: [github.com/Piyushxyz1/Portfolio.git](https://github.com/Piyushxyz1/Portfolio.git)

@@ -67,7 +67,7 @@
 
 ---
 
-## 📊 Professional Summary
+## Professional Summary
 
 **Full Stack & DevOps Engineer** with expertise in **MERN stack development** and expanding knowledge in **cloud infrastructure** and **automation**. Passionate about building scalable applications and implementing CI/CD pipelines across **AWS, Azure, and GCP**.
 
@@ -75,7 +75,7 @@
 
 ---
 
-## 🛠️ Technical Arsenal
+##  Technical Arsenal
 
 ### **MERN Stack Development**
 <p align="left">
@@ -116,7 +116,7 @@
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=piyushxyz1&show_icons=true&count_private=true&theme=github_dark&hide_border=true" width="48%" />
@@ -134,7 +134,7 @@
 
 ---
 
-## 🏆 DevOps Metrics
+##  DevOps Metrics
 
 <p align="center">
   <img src="https://img.shields.io/badge/Deployment_Frequency-~5%2Fweek-blue" />
@@ -150,7 +150,7 @@
 
 ---
 
-## 🤝 Professional Network
+##  Professional Network
 
 - **LinkedIn**: [linkedin.com/in/piyush-negi](https://linkedin.com/in/piyush-negi)
 - **GitHub**: [github.com/Piyushxyz1](https://github.com/Piyushxyz1)

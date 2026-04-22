@@ -118,6 +118,6 @@
 - **Email**: [piyushnegi033@gmail.com](mailto:piyushnegi033@gmail.com)
 - **Portfolio**: [github.com/Piyushxyz1/Portfolio.git](https://github.com/Piyushxyz1/Portfolio.git)
 
----<p align="center"> <i>"No good deed goes to waste. A person who walks the path of righteousness is never destroyed, neither in this world nor the next."</i> [citation:2] </p>
+---<p align="center"> <i>"No good deed goes to waste. A person who walks the path of righteousness is never destroyed, neither in this world nor the next."</i> — Bhagavad Gita, Chapter 2, Verse 40 </p>
 
 

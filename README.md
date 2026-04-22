@@ -69,7 +69,7 @@
 
 ## Professional Summary
 
-**Full Stack & DevOps Engineer** with expertise in **MERN stack development** and expanding knowledge in **cloud infrastructure** and **automation**. Passionate about building scalable applications and implementing CI/CD pipelines across **AWS, Azure, and GCP**.
+**Full Stack Developer** with strong knowledge of DevOps practices and growing expertise in cloud infrastructure and automation. Passionate about building scalable applications and implementing CI/CD pipelines across **AWS, Azure, and GCP**.
 
 <br>
 

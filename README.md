@@ -120,20 +120,6 @@
 
 ---
 
-## 🎯 Current Learning Path
-
-| Priority | Technology | Status |
-|----------|------------|--------|
-| 🔴 High | Docker & Containerization | 🟢 Active |
-| 🔴 High | Kubernetes Orchestration | 🟡 Learning |
-| 🟡 Medium | Terraform (IaC) | 🟡 Learning |
-| 🟡 Medium | Jenkins Pipelines | 🟢 Active |
-| 🟢 Low | Prometheus & Grafana | ⚪ Planned |
-
-<br>
-
----
-
 ## 📈 GitHub Analytics
 
 <p align="center">

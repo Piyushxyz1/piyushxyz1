@@ -1,6 +1,8 @@
 <h1 align="center">Piyush Negi</h1>
 <h3 align="center">Full Stack Engineer | DevOps Engineer | Cloud Enthusiast</h3>
 
+p align="center"> <img src="https://komarev.com/ghpvc/?username=piyushxyz1&label=Profile%20Views&color=0e75b6&style=flat-square" /> <img src="https://img.shields.io/github/followers/piyushxyz1?label=Followers&style=flat-square" /> </p>
+
 <!-- Professional Banner with all tools -->
 <p align="center">
   <!-- MERN Stack -->

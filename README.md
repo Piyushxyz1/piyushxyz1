@@ -76,7 +76,7 @@
 
 ---
 
-##  Technical Arsenal
+##  Technical Skills
 
 ### **MERN Stack Development**
 <p align="left">

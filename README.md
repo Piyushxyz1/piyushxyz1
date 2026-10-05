@@ -1,5 +1,5 @@
 <h1 align="center">Piyush Negi</h1>
-<h3 align="center">Full Stack Engineer | DevOps Engineer | Cloud Engineer</h3>
+<h3 align="center">Full Stack Engineer | DevOps Engineer</h3>
 
 <br>
 

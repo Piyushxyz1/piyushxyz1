@@ -1,174 +1,134 @@
-<h1 align="center">Piyush Negi</h1>
-<h3 align="center">Full Stack Engineer | DevOps Engineer</h3>
+# Piyush Negi
 
-<br>
-
-<!-- Professional Banner with all tools -->
-<p align="center">
-  <!-- MERN Stack -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="70" title="MongoDB" />
-  &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="70" title="Express.js" />
-  &nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="70" title="React" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="70" title="Node.js" />
-</p>
-
-<br>
+<h3 align="center">Full Stack Engineer | DevOps & Cloud Engineering</h3>
 
 <p align="center">
-  <!-- Cloud Platforms -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" title="AWS" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="60" title="Google Cloud Platform" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Automating+Cloud+Infrastructure;Exploring+Cloud+Native+Technologies;Developing+Reliable+Software+Solutions" />
 </p>
-
-<br>
-
-<p align="center">
-  <!-- DevOps Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="60" title="Docker" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="60" title="Kubernetes" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="60" title="Jenkins" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" width="60" title="Terraform" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" width="60" title="Ansible" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" width="60" title="Prometheus" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" width="60" title="Grafana" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" title="Linux" />
-</p>
-
-<br>
 
 <p align="center">
   <a href="https://github.com/Piyushxyz1">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/piyush-negi-techie">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="mailto:piyushnegi033@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+</p>
+
+---
+
+## PROFESSIONAL SUMMARY
+
+Full Stack Developer with experience building web applications and working with modern development technologies. Expanding expertise in DevOps, cloud infrastructure, and automation.
+
+Interested in developing scalable applications, designing RESTful APIs, implementing CI/CD pipelines, and managing containerized workloads across cloud environments.
+
+---
+
+## TECHNICAL SKILLS
+
+### Full Stack Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind" />
+</p>
+
+**Technologies:** JavaScript, React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, Prisma, REST APIs, JWT, Tailwind CSS.
+
+### Cloud Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp" />
+</p>
+
+| Platform | Services |
+|:---|:---|
+| AWS | EC2, S3, Lambda, RDS, CloudFormation |
+| Google Cloud | Compute Engine, Cloud Run, GKE, Artifact Registry |
+
+### DevOps & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,prometheus,grafana,githubactions,linux,bash" />
+</p>
+
+| Category | Technologies |
+|:---|:---|
+| Containerization | Docker, Kubernetes |
+| CI/CD | Jenkins, GitHub Actions, GitLab CI |
+| Infrastructure as Code | Terraform, Ansible, CloudFormation |
+| Monitoring | Prometheus, Grafana, ELK Stack |
+| Version Control | Git, GitHub, GitLab, Bitbucket |
+| Operating Systems | Linux |
+
+---
+
+## FEATURED PROJECTS
+
+### Goodpaws — Full Stack E-commerce Platform
+
+A full-stack pet e-commerce application built using Next.js and PostgreSQL.
+
+- Developed product discovery, category filtering, and shopping cart functionality.
+- Implemented authentication and session management using Auth.js.
+- Integrated Prisma ORM with Neon PostgreSQL.
+- Implemented Razorpay payment processing.
+- Developed responsive interfaces using React and Tailwind CSS.
+
+**Tech Stack:** Next.js, React, PostgreSQL, Prisma, Auth.js, Razorpay, Tailwind CSS.
+
+### Nexora — Cloud Infrastructure & DevOps
+
+A cloud infrastructure project focused on provisioning, container orchestration, and automated deployment.
+
+- Provisioned Google Cloud infrastructure using Terraform.
+- Configured Google Kubernetes Engine (GKE).
+- Implemented CI/CD pipelines using GitHub Actions.
+- Integrated Docker image builds with Google Artifact Registry.
+- Configured Kubernetes deployments and ingress.
+
+**Tech Stack:** Google Cloud, Terraform, Docker, Kubernetes, GitHub Actions.
+
+---
+
+## GITHUB STATISTICS
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Piyushxyz1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushxyz1&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyushxyz1&theme=tokyonight" />
+</p>
+
+---
+
+## CONTRIBUTION ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyushxyz1&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+## CONNECT WITH ME
+
+<p align="center">
   <a href="https://linkedin.com/in/piyush-negi-techie">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  <a href="https://github.com/Piyushxyz1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="mailto:piyushnegi033@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<br>
-
----
-
-## Professional Summary
-
-**Full Stack Developer** with strong knowledge of DevOps practices and cloud infrastructure and automation. Passionate about building scalable applications and implementing CI/CD pipelines across **AWS and GCP**.
-
-<br>
-
----
-
-##  Technical Skills
-
-### **MERN Stack Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=rest&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-</p>
-
-<br>
-
-### **Cloud Platforms**
-| Platform | Services |
-|----------|----------|
-| **AWS** | EC2, S3, Lambda, CloudFormation, RDS |
-| **GCP** | Compute Engine, Cloud Run, GKE |
-
-<br>
-
-### **DevOps Toolchain**
-| Category | Tools |
-|----------|-------|
-| **Containerization** | Docker, Kubernetes, Helm |
-| **CI/CD** | Jenkins, GitHub Actions, GitLab CI |
-| **Infrastructure as Code** | Terraform, Ansible, CloudFormation |
-| **Monitoring** | Prometheus, Grafana, ELK Stack |
-| **Version Control** | Git, GitHub, GitLab, Bitbucket |
-
-<br>
-
----
-
-## GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushxyz1&show_icons=true&count_private=true&theme=github_dark&hide_border=true" width="48%" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushxyz1&layout=compact&theme=github_dark&hide_border=true" width="48%" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushxyz1&theme=github_dark" width="90%" />
-</p>
-
-<br>
-
----
-
-##  DevOps Metrics
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Deployment_Frequency-~5%2Fweek-blue" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Lead_Time-%3C24h-green" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MTTR-30min-orange" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Change_Failure_Rate-%3C5%25-brightgreen" />
-</p>
-
-<br>
-
----
-
-##  Professional Network
-
-- **LinkedIn**: [linkedin.com/in/piyush-negi-techie](https://linkedin.com/in/piyush-negi-techie)
-- **GitHub**: [github.com/Piyushxyz1](https://github.com/Piyushxyz1)
-- **Email**: [piyushnegi033@gmail.com](mailto:piyushnegi033@gmail.com)
-- **Portfolio**: [github.com/Piyushxyz1/Portfolio.git](https://github.com/Piyushxyz1/Portfolio.git)
-
-<br>
-
----
-
-<p align="center">
-  <i>"No good deed goes to waste. A person who walks the path of righteousness is never destroyed, neither in this world nor the next."</i>
-</p>
-
-<p align="center">
-  <strong>— Bhagavad Gita, Chapter 2, Verse 40</strong>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=piyushxyz1&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Piyushxyz1&label=PROFILE+VIEWS&color=38BDF8&style=flat-square" />
 </p>

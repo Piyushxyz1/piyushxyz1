@@ -67,9 +67,6 @@ Interested in developing scalable applications, designing RESTful APIs, implemen
 ---
 
 
-
-**Tech Stack:** Google Cloud, Terraform, Docker, Kubernetes, GitHub Actions.
-
 ---
 
 ## GITHUB STATISTICS

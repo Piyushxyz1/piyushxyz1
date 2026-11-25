@@ -20,9 +20,7 @@
 
 <p align="center">
   <!-- Cloud Platforms -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" title="AWS" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" width="60" title="Microsoft Azure" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" title="AWS" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="60" title="Google Cloud Platform" />
 </p>
@@ -99,7 +97,6 @@
 | Platform | Services |
 |----------|----------|
 | **AWS** | EC2, S3, Lambda, CloudFormation, RDS |
-| **Azure** | Azure DevOps, App Services, AKS |
 | **GCP** | Compute Engine, Cloud Run, GKE |
 
 <br>
@@ -108,7 +105,7 @@
 | Category | Tools |
 |----------|-------|
 | **Containerization** | Docker, Kubernetes, Helm |
-| **CI/CD** | Jenkins, GitHub Actions, GitLab CI, Azure Pipelines |
+| **CI/CD** | Jenkins, GitHub Actions, GitLab CI |
 | **Infrastructure as Code** | Terraform, Ansible, CloudFormation |
 | **Monitoring** | Prometheus, Grafana, ELK Stack |
 | **Version Control** | Git, GitHub, GitLab, Bitbucket |

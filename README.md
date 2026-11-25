@@ -66,29 +66,7 @@ Interested in developing scalable applications, designing RESTful APIs, implemen
 
 ---
 
-## FEATURED PROJECTS
 
-### Goodpaws — Full Stack E-commerce Platform
-
-A full-stack pet e-commerce application built using Next.js and PostgreSQL.
-
-- Developed product discovery, category filtering, and shopping cart functionality.
-- Implemented authentication and session management using Auth.js.
-- Integrated Prisma ORM with Neon PostgreSQL.
-- Implemented Razorpay payment processing.
-- Developed responsive interfaces using React and Tailwind CSS.
-
-**Tech Stack:** Next.js, React, PostgreSQL, Prisma, Auth.js, Razorpay, Tailwind CSS.
-
-### Nexora — Cloud Infrastructure & DevOps
-
-A cloud infrastructure project focused on provisioning, container orchestration, and automated deployment.
-
-- Provisioned Google Cloud infrastructure using Terraform.
-- Configured Google Kubernetes Engine (GKE).
-- Implemented CI/CD pipelines using GitHub Actions.
-- Integrated Docker image builds with Google Artifact Registry.
-- Configured Kubernetes deployments and ingress.
 
 **Tech Stack:** Google Cloud, Terraform, Docker, Kubernetes, GitHub Actions.
 
